@@ -1,0 +1,21 @@
+{
+ "name": "Sudoku",
+ "description": "Enter your project description",
+ "author": {
+  "name": "Alejandro",
+  "email": "alejandroacho@hotmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "sudoku",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": ""
+}
